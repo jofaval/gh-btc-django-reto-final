@@ -107,4 +107,4 @@ Todos los cambios _relevantes_ realizados al proyecto/repositorio quedarán regi
 - A Geekshubs por el [Bootcamp de Backend en Python](https://bootcamp.geekshubsacademy.com/online/backend-python/)
 - A Valencia Digital Summit 2021, el evento que me hizo obtener una beca con la que poder acceder al evento
 
-# [⬆ Volver arriba ⬆](#reto-final-api-lfg-looking-for-groups)
+# [⬆ Volver arriba ⬆](#reto-final---api-lfg-looking-for-groups)
