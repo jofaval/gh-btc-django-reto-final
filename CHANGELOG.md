@@ -1,3 +1,5 @@
+[<< Volver al README](./README.md)
+
 # CHANGELOG #
 
 Registro de cambios y actualizaciones del proyecto

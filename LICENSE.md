@@ -1,3 +1,5 @@
+[<< Volver al README](./README.md)
+
 MIT License
 
 Copyright (c) 2022 Pepe Fabra Valverde
