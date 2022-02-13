@@ -100,7 +100,7 @@ Una vez iniciada la aplicación con `... runserver`
 
 ## 6. Licencia
 
-El proyecto utiliza la licencia **MIT**, para más información, acceda al fichero [LICENSE](LICENSE)
+El proyecto utiliza la licencia **MIT**, para más información, acceda al fichero [LICENSE](LICENSE.md)
 
 ## 7. Registro de cambios
 
