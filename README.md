@@ -2,7 +2,7 @@
 
 #### Tabla de contenido
 
-- [0. Descripción](#0-descripción)
+- [0. Documentación técnica](#0-documentación-técnica)
 - [1. Descripción](#1-descripción)
 - [2. Requisitos Funcionales](#2-requisitos-funcionales)
 - [3. Objetivos](#3-objetivos)
