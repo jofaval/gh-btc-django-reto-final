@@ -110,6 +110,6 @@ Todos los cambios _relevantes_ realizados al proyecto/repositorio quedarán regi
 
 - Proyecto ideado por [Jose Marín](https://es.linkedin.com/in/jos%C3%A9-mar%C3%ADn-20013460) como docente parte del equipo de [Geekshubs](https://www.geekshubsacademy.com)
 - A Geekshubs por el [Bootcamp de Backend en Python](https://bootcamp.geekshubsacademy.com/online/backend-python/)
-- A Valencia Digital Summit 2021, el evento que me hizo obtener una beca con la que poder acceder al evento
+- A Valencia Digital Summit 2021, el evento que me hizo obtener una beca con la que poder acceder al Bootcamp
 
 # [⬆ Volver arriba ⬆](#reto-final---api-lfg-looking-for-groups)
