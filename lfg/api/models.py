@@ -33,10 +33,10 @@ class Profile(models.model):
 
 class Message(models.model):
     creator = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
-    name = models.CharField()
+    content = models.CharField()
     deleted = models.BooleanField()
     created_date = models.DateTimeField(default=timezone.now)
     updated_date = models.DateTimeField(default=timezone.now)
 
     def __str__(self) -> str:
-        return self.name
+        return self.content
