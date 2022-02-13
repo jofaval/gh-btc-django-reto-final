@@ -25,8 +25,8 @@ Los requisitos funcionales de la aplicación son los siguientes:
 
 1. **RF** - Los usuarios se tienen que poder registrar a la aplicación, estableciendo un usuario/contraseña.
 1. **RF** - Los usuarios tienen que autenticarse a la aplicación haciendo login.
-1. **RF** - Los usuarios tienen que poder crear Partías (grupos) por un determinado videojuego.
-1. **RF** - Los usuarios tienen que poder buscar Partías seleccionando un videojuego.
+1. **RF** - Los usuarios tienen que poder crear Parties (grupos) por un determinado videojuego.
+1. **RF** - Los usuarios tienen que poder buscar Parties seleccionando un videojuego.
 1. **RF** - Los usuarios pueden entrar y salir de una Party.
 1. **RF** - Los usuarios tienen que poder enviar mensajes a la Party. Estos mensajes tienen que poder ser editados y borrados por su usuario creador.
 1. **RF** - Los mensajes que existan a una Party se tienen que visualizar como un chat común.
