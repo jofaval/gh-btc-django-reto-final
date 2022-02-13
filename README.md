@@ -2,6 +2,7 @@
 
 #### Tabla de contenido
 
+- [0. Descripción](#0-descripción)
 - [1. Descripción](#1-descripción)
 - [2. Requisitos Funcionales](#2-requisitos-funcionales)
 - [3. Objetivos](#3-objetivos)
@@ -10,6 +11,10 @@
 - [6. Licencia](#6-licencia)
 - [7. Registro de cambios](#7-registro-de-cambios)
 - [8. Créditos](#8-créditos)
+
+## 0. Documentación técnica
+
+Toda la documentación técnica referente a los endpoints se encuentra en [/docs](./docs).
 
 ## 1. Descripción
 
