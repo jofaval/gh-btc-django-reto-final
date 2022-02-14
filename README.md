@@ -1,4 +1,4 @@
-# Reto Final - API LFG (Looking For Groups) #
+# Reto Final - API LFG (Looking For Groups)
 
 #### Tabla de contenido
 
