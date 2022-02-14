@@ -17,5 +17,5 @@ class ProfileViewSet():
     serializer_class = ProfileSerializer
 
 class MessageViewSet():
-    queryset = Message.objects.all().order_by('creator')
+    queryset = Message.objects.all().order_by('created_date')
     serializer_class = MessageSerializer
