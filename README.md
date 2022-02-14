@@ -14,9 +14,13 @@
 
 ## 0. Documentación técnica
 
+[⬆ Volver al índice](#tabla-de-contenido)
+
 Toda la documentación técnica referente a los endpoints se encuentra en [/docs](./docs).
 
 ## 1. Descripción
+
+[⬆ Volver al índice](#tabla-de-contenido)
 
 Dada la situación sanitaria, una empresa tecnológica a estado trabajando en remoto desde marzo de 2020. Esto ha implicado que nuestros compañeros hayan perdido el contacto humano que siempre se ha tenido, y es algo que la empresa desea cambiar.
 
@@ -25,6 +29,8 @@ La empresa quiere dar un impulso a la manera que tienen los trabajadores de rela
 Una primera fase de este proyecto es crear una **aplicación web LFG**, que permita que los empleados puedan contactar con otros compañeros para formar grupos para jugar a un videojuego, con el objetivo de poder compartir un rato de ocio _afterwork_.
 
 ## 2. Requisitos Funcionales
+
+[⬆ Volver al índice](#tabla-de-contenido)
 
 Los requisitos funcionales de la aplicación son los siguientes:
 
@@ -39,6 +45,8 @@ Los requisitos funcionales de la aplicación son los siguientes:
 1. **RF** - Los usuarios tienen que poder hacer logout de la aplicación web.
 
 ## 3. Objetivos
+
+[⬆ Volver al índice](#tabla-de-contenido)
 
 Realizar una API REST completa, con Django, que cumpla con los requisitos anteriormente planteados.
 
@@ -56,6 +64,8 @@ Y como preferidos:
 
 ## 4. Stack Tecnológico
 
+[⬆ Volver al índice](#tabla-de-contenido)
+
 Para el desarrollo de la API utilizaremos PostgreSQL con Django:
 
 - PostgreSQL.
@@ -68,6 +78,8 @@ Para el desarrollo de la API utilizaremos PostgreSQL con Django:
 Como Sistema Control de Versiones se utilizará Git, hosteado en Github, haciendo uso de Git-Flow.
 
 ## 5. Cómo usar la aplicación
+
+[⬆ Volver al índice](#tabla-de-contenido)
 
 ### Configurar el entorno
 
@@ -100,13 +112,19 @@ Una vez iniciada la aplicación con `... runserver`
 
 ## 6. Licencia
 
+[⬆ Volver al índice](#tabla-de-contenido)
+
 El proyecto utiliza la licencia **MIT**, para más información, acceda al fichero [LICENSE](LICENSE.md)
 
 ## 7. Registro de cambios
 
+[⬆ Volver al índice](#tabla-de-contenido)
+
 Todos los cambios _relevantes_ realizados al proyecto/repositorio quedarán registrados en el fichero [CHANGELOG.md](CHANGELOG.md).
 
 ## 8. Créditos
+
+[⬆ Volver al índice](#tabla-de-contenido)
 
 - Proyecto ideado por [Jose Marín](https://es.linkedin.com/in/jos%C3%A9-mar%C3%ADn-20013460) como docente parte del equipo de [Geekshubs](https://www.geekshubsacademy.com)
 - A Geekshubs por el [Bootcamp de Backend en Python](https://bootcamp.geekshubsacademy.com/online/backend-python/)
