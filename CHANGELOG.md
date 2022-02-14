@@ -18,3 +18,6 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.
 - Estructura base de la aplicación (sin contenido por el momento)
   - Aplicación principal
   - Aplicación de la API
+- Página informativa alojada en Github Pages
+- Modelos y serialización de los mismos
+- Visualización de los modelos
