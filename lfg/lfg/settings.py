@@ -143,3 +143,16 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.IsAuthenticated',
     ]
 }
+
+from .conf import username, password, host, port
+
+DATABASES = {
+    'default': {
+    'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'bookstore',
+        'USER': username,
+        'PASSWORD': password,
+        'HOST': host,
+        'PORT': port,
+    }
+}
