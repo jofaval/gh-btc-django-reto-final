@@ -23,14 +23,14 @@ class Videogame(LfgModel):
 
 class Party(LfgModel):
     name = models.CharField(max_length=200)
-    videogame = models.ForeignKey(Videogame,on_delete=models.CASCADE)
+    videogame = models.OneToOneRel(Videogame,on_delete=models.CASCADE)
     created_date = models.DateTimeField(default=timezone.now)
 
     def __str__(self) -> str:
         return self.name
 
 class Profile(LfgModel):
-    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    user = models.OneToOneRel(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     twitter = models.CharField(max_length=200)
     instagram = models.CharField(max_length=200)
     telegram = models.CharField(max_length=200)
@@ -43,7 +43,7 @@ class Profile(LfgModel):
         return self.user.username
 
 class Message(LfgModel):
-    creator = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    creator = models.ManyToOneRel(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     content = models.CharField()
     deleted = models.BooleanField()
     created_date = models.DateTimeField(default=timezone.now)
