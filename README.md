@@ -83,10 +83,21 @@ Como Sistema Control de Versiones se utilizará Git, hosteado en Github, haciend
 
 ### Configurar el entorno
 
+Ejecutar los siguientes comandos
+
 ```shell
 python -m pipenv install
 python -m django lfg/manager.py makemigrations
 python -m django lfg/manager.py migrate
+```
+
+Crear un fichero llamado `lfg/conf.py` con el siguiente contenido:
+
+```python
+username = 'postgres'
+password = '1234'
+host = 'localhost'
+port = '5432'
 ```
 
 ### Ejecutar la aplicación
